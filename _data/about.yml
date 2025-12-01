@@ -1,0 +1,91 @@
+biography:
+  - Edith is a current mathematics teacher at Berkeley High School. She currently teaches AP Statistics and Math 2; she has previously taught AP Computer Science Principles. She did her Master's in Teacher Leadership at SDSU and graduates December 2025. She has her Bachelor's in Statistics with a teaching emphasis and minor in science and math education at the University of California, Berkeley.
+  - As an educator, Edith looks forward to creating enriching and high expectation environments for all students to learn and engage in. All students have the power to succeed in their own way and all students need to expect to be challenged in a critical way that the teacher facilitates and supports them in.
+  - As a leader, she aims to create professional learning communities that respect each other, collaborate efficiently and effectively, and have high accountability. Collecting data, utilizing data, and also examining issues of equity through deep research and inquiry in schools are key aspects to attempting to achieve such goals.
+
+education:
+  - title: "Master of Arts, Education"
+    organization: "San Diego State University"
+    period: "Jan. 2025 - Dec. 2025"
+    description:
+      - Emphasis in teacher leadership. Studies in program evaluation, organizational engagement, collaborative structures, and evidence-based practices.
+  - title: "Bachelor of Arts, Statistics"
+    organization: "University of California, Berkeley"
+    period: "Aug. 2018 - May 2022"
+    description:
+      - Majored in Statistics with a teaching emphasis. Minor in CalTeach (K-12 STEM Education).
+
+
+positions:
+  - title: "Mathematics Teacher"
+    organization: "Berkeley High School"
+    period: "Aug. 2022 - Present"
+    description:
+      - Experience teaching Math 2, AP Statistics, and AP Computer Science Principles.
+      - Crafted dedicated websites for students to engage in labwork for AP Computer Science Principles and engage in a structured class for AP Statistics.
+
+  - title: "Student Teacher"
+    organization: "Berkeley High School"
+    period: "Jan. 2022 - Jun. 2022"
+    description:
+      - Learned to teach with a Math 2 course and observed teaching practices for Math 2 and AP Statistics.
+      - Completed through UC Berkeley's CalTeach program.
+
+  - title: "Site Co-Director"
+    organization: "Bridging Berkeley (UC Berkeley Public Service Center)"
+    period: "Jun. 2020 - May 2022"
+    description:
+      - Direct the Bridging Berkeley program at Martin Luther King Jr. Middle School by collaborating with the school's afterschool program (LEARNS) and RTI coordinator.
+      - During COVID-19 lockdown, coordinated and collaborated to successfully launch a mentoring program over Zoom to support more than 100 students with needs.
+
+  - title: "Statistics 33B Head Teaching Assistant"
+    organization: "UC Berkeley Department of Statistics"
+    period: "Jan. 2021 – Dec. 2021"
+    description:
+      - Provide supplementary instruction and support to students outside of lecture for Stat 33B, Introduction to Advanced Programming in R, by forming lesson plans for sections, creating materials, and holding office hours.
+
+  - title: "Classroom Volunteer"
+    organization: "Berkeley Unified School District"
+    period: "Sep. 2020 – Dec. 2021"
+    description:
+      - Experience in supporting students in 6th grade math, AP Computer Science Principles, AP Computer Science A, and IB Math Studies
+
+  - title: "Berkeley Unboxing Data Science Team Facilitator and Researcher"
+    organization: "UC Berkeley Division of Computing, Data Science, and Society"
+    period: "Jun. 2020 - May 2022"
+    description:
+      - Lead a group of high school interns with equitable teaching practices, pedagogy, and data science fundamentals.
+      - Conduct research under Professor Deb Nolan and Statistics PhD student Drew Nguyen on health disparity and its relation to factors of health literacy.
+
+
+  - title: "Statistics 20 Group Tutor"
+    organization: "UC Berkeley Department of Statistics"
+    period: "Jun. 2020 – Dec. 2020"
+    description:
+      - Provide tutoring to students in Stat 20, Introduction to Probability and Statistics, construct lesson plans for students on a case-by-case basis, provide support in debugging R code for the course.
+
+  - title: "Mathematics Mentor"
+    organization: "Bridging Berkeley (UC Berkeley Public Service Center)"
+    period: "Sep. 2018 – May 2020"
+
+  - title: "Statistics 20 Reader"
+    organization: "UC Berkeley Department of Statistics"
+    period: "Sep. 2019 – Dec. 2019"
+
+honours:
+  - Taiwanese American Scholarship Fund 2018 Scholarship Reciepient
+  - Taiwanese American Community Leaders 2018 Scholarship Reciepient
+
+skills:
+  - Development, review, and implemention of initiatives and programs.
+  - Identifying and utilizing data to inform practices.
+  - Critical lens about social justice issues in a school environment.
+  - Leveraging best practices and structures for mentoring, coaching, and collaboration.
+  - Statistical programming using R and Python.
+  - Conduct research by academic standard.
+  - Website development with Python, Jekyll, Quarto, and HTML/CSS.
+  - Comfortable with software such as Microsoft Office, Google Workspace, Google Earth, Adobe Creative Cloud.
+  - Fluent in Mandarin.
+  
+  
+  

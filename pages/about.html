@@ -1,0 +1,80 @@
+---
+title: "About"
+permalink: /
+layout: default
+---
+
+<div class="row justify-content-center align-items-center g-5 pb-5">
+    <div class="col-md-7 col-xl-9">
+        <!-- Biography -->
+        <h2 class="text-center text-uppercase">Introduction</h2>
+        {% for p in site.data.about.biography %}
+        <p>{{ p }}</p>
+        {% endfor %}
+    </div>
+    <!--Image next to / below Biography-->
+    <div class="col">
+        <img src="/assets/img/edith_chang_portrait.jpg" class="img-fluid" alt="Picture of Edith Chang, 2025">
+    </div>
+</div>
+<!-- Positions & Certifications -->
+<div class="col-lg-8 offset-lg-2 pb-5">
+    <h2 class="text-center text-uppercase pb-3">Education</h2>
+    <dl class="row align-items-center g-4 pb-3" id="education">
+    {% for position in site.data.about.education %}
+        {% include position_item.html title=position.title organization=position.organization period=position.period description=position.description %}
+    {% endfor %}
+    </dl>
+    <h2 class="text-center text-uppercase pb-3">Positions</h2>
+    <dl class="row align-items-center g-4 pb-5" id="positions">
+    {% for position in site.data.about.positions %}
+        {% include position_item.html title=position.title organization=position.organization period=position.period description=position.description %}
+    {% endfor %}
+    </dl>
+    <!--
+    <h2 class="text-center text-uppercase">Certifications</h2>
+    <dl class="row align-items-center g-4" id="certifications">
+    {% for certificate in site.data.about.certification %}
+        {% include certificate_item.html certificate=certificate.certificate period=certificate.period %}
+    {% endfor %}
+    </dl>
+    
+    <div id="gallery" class="carousel carousel-dark slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+        {% for item in site.data.about.gallery %}
+            {% include carousel_item.html file=item.file description=item.description first=forloop.first %}
+        {% endfor %}
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#gallery" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#gallery" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+-->
+</div>
+
+<div class="row justify-content-center g-2 pb-4">
+
+    <div class="col-md">
+        <!-- Honours and Professional Learning -->
+        <h2 class="text-center text-uppercase">Honours and Awards</h2>
+        <ul>
+        {% for honour in site.data.about.honours %}
+            <li>{{ honour }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+    <div class="col-md">
+        <!-- Skills -->
+        <h2 class="text-center text-uppercase">Skills</h2>
+        <ul>
+        {% for skill in site.data.about.skills %}
+            <li>{{ skill }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>

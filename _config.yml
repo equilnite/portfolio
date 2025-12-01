@@ -1,0 +1,34 @@
+sass:
+  load_paths:
+    - _sass
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+title: Edith Chang
+tagline: |
+  Math Teacher
+description: |
+  I'm a math teacher in Berkeley. This is my website made as part of a requirement for my Masters' program at SDSU.
+url: portfolio.echa.ng
+favicon: /assets/img/favicon.png
+
+author:
+  name: Edith Chang
+  email: edith@echa.ng
+  url: https://portfolio.echa.ng/
+
+logo: /assets/img/favicon.png
+
+# social:
+#   links:
+#     linkedin: https://www.linkedin.com/in/echang16/
+
+locale: en_US
+
+
+
+
+
+

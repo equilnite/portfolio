@@ -1,0 +1,48 @@
+/* All other styling */
+
+* {
+    font-family: 'Open Sans';
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Raleway';
+}
+
+#landing-container{
+    /* overflow: hidden; */
+    background: url(/assets/img/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#landing {
+    font-size: 1.75rem;
+    line-height: 100vh;
+}
+
+#landing * {
+    color: white;
+}
+
+#landing-name {
+    display: inline-block;
+}
+
+#desc {
+    color: white;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
+#desc p {
+    color: white;
+}
+
+.fab, .far, .fas {
+    font-size: 1.5rem;
+}
+
+.divider {
+    width: 20rem;
+}

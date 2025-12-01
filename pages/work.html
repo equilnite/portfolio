@@ -1,0 +1,11 @@
+---
+title: "Work"
+permalink: /work
+layout: default
+---
+
+<div class="row justify-content-center align-items-center g-5">
+{% for work in site.data.work %}
+    {% include work_card.html work_title=work.work_title work_description=work.work_description work_type=work.work_type work_file=work.work_file term=work.term reflection_file=work.reflection_file index=forloop.index %}
+{% endfor %}
+</div>
